@@ -1,0 +1,2 @@
+# littertotalmap
+solely littering visualization
